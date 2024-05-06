@@ -27,7 +27,7 @@ func getVersion() string {
 }
 
 func helloFunc(c *gin.Context) {
-	c.String(http.StatusOK, "Hello, World!")
+	c.String(http.StatusOK, "S3PWEB : Hello, World!")
 }
 
 func healthFunc(c *gin.Context) {

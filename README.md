@@ -24,7 +24,7 @@ A [Prometheus](https://prometheus.io/)-instrumented Docker "Hello World" web ser
 ## Building
 
 ```
-docker build --rm -t ghcr.io/infrastructure-as-code/hello-world .
+docker build --rm -t s3pweb/hello-world .
 ```
 
 ## Releases
